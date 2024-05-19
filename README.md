@@ -27,11 +27,12 @@ For detailed technical documentation, please see [Function_Generator.md](docs/Fu
   - [PCB Layout](pcb/Layers.pdf)
 
 - **MATLAB Code and Plots:**
-  - **Bode Plot Codes:**
+  - **Analysis Codes:**
     - [Wein Bridge Oscillator](matlab/bode_weinbridge.m)
     - [Band Pass Filter](matlab/band_pass_filter.m)
     - [ECG Signal](matlab/ecg.m)
-  - **Bode Plot:**
-    - [Band Pass Filter](matlab/bode_bandpass.pdf)
+  - **Bode & Nyquist Plot:**
+    - [Band Pass Filter(Bode Plot)](matlab/bode_bandpass.pdf)
+    - [Band Pass Filter(Nyquist Plot)](matlab/nyquist_bandpass.pdf)
 
 
