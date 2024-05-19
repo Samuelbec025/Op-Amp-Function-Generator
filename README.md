@@ -2,6 +2,8 @@
 
 Course Project: Linear Integrated Circuits, Spring 2024
 
+For detailed technical documentation, please see [docs/Function_Generator.md](docs/Function_Generator.md).
+
 Div: 4A
 
 ECE Dept.
