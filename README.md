@@ -9,10 +9,10 @@ For detailed technical documentation, please see [Function_Generator.md](docs/Fu
 **KLE Technological University**
 
 ## Team
-| Sr. No. | Name   | Roll No. | USN           | LinkedIn           |
-| ------- | ------ | -------- | ------------- | ------------------ |
-| 1.      | Samuel | 104      | 01FE22BEC025 | [Samuel's LinkedIn](https://in.linkedin.com/in/samuel-savangouder-358706213) |
-| 2.      | Nikhil | 111      | 01FE22BEC033 | [Nikhil's LinkedIn](https://www.linkedin.com/in/nikhil-benakatti-57b46126a/) |
+| Sr. No. | Name   | Roll No. | USN           | 
+| ------- | ------ | -------- | ------------- | 
+| 1.      | Samuel | 104      | 01FE22BEC025 | 
+| 2.      | Nikhil | 111      | 01FE22BEC033 | 
 
 ## Additional Resources
 
