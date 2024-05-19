@@ -10,7 +10,7 @@ den_hpf = [R1*C1, 1];
 sys_hpf = tf(num_hpf, den_hpf);
 
 % Low-pass filter transfer function
-num_lpf = [1];
+num_lpf = 1;
 den_lpf = [R2*C2, 1];
 sys_lpf = tf(num_lpf, den_lpf);
 
@@ -21,6 +21,12 @@ sys_bpf = series(sys_hpf, sys_lpf);
 figure;
 bode(sys_bpf);
 title('Bode Plot of RC Band-Pass Filter');
+grid on;
+
+% Nyquist Plot of the Band-Pass Filter
+figure;
+nyquist(sys_bpf);
+title('Nyquist Plot of RC Band-Pass Filter');
 grid on;
 
 % Check stability of the Band-Pass Filter
