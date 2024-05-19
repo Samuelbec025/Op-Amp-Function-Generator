@@ -26,8 +26,8 @@ For detailed technical documentation, please see [Function_Generator.md](docs/Fu
 - **PCB Gerber Files:**
   - [PCB Layout](pcb/Layers.pdf)
 
-- **MATLAB Code and Plots:**
-  - **Analysis Codes:**
+- **MATLAB Analysis:**
+  - **Codes:**
     - [Wein Bridge Oscillator](matlab/bode_weinbridge.m)
     - [Band Pass Filter](matlab/band_pass_filter.m)
     - [ECG Signal](matlab/ecg.m)
