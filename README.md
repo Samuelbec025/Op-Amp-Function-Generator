@@ -35,4 +35,4 @@ Sr. No. | Name | Roll No. | USN
     - [Band Pass Filter](matlab/band_pass_filter.m)
     - [ECG Signal](matlab/ecg.m)
   - Bode Plot:
-    - [Band Pass Filter](matlab/bode_bandpass.m)
+    - [Band Pass Filter](matlab/bode_bandpass.pdf)
